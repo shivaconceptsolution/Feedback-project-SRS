@@ -1,0 +1,31 @@
+Feedback System:-
+
+
+Student--->
+
+Submit Feedback
+
+View Feedback | Edit Feedback
+
+View Reply 
+
+Logout
+
+Admin
+
+---> Login 
+     Manage Faculty (CRUD)
+     Manage Student (View Student, Approve Student)
+     View Feedback
+     Reply Feedback  
+     Logout
+
+Faculty:-
+
+Login
+View Feedback
+View Reply
+Logout
+
+
+
